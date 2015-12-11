@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Passgen</string>
+    <string name="action_settings">Settings</string>
+    <string name="lgPass">Длина пароля:</string>
+
+    <string name="modeN">Цифры (0..9)</string>
+    <string name="modeUC">Большие буквы (A..Z)</string>
+    <string name="modeLC">Малинкие буквы (a..z)</string>
+    <string name="modeSC">Спец. символы (!@#%$)</string>
+
+    <string name="BReg">Генирировать</string>
+</resources>
